@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/Background</item>
+        <item name="actionButtonStyle">@color/btnPress</item>
+        <item name="android:textColor">#ffffffff</item>
+
+    </style>
+
+
+    <!-- CAMBIANDO EL COLOR A LOS SWITCH-->
+    <style name="mySwitch">
+        <item name="android:colorButtonNormal">@color/colorPrimaryDark</item>
+    </style>
+
+
+
+</resources>
